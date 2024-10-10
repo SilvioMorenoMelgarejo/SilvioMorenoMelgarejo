@@ -1,19 +1,20 @@
-## Buenas, bienvenidos a mi perfil 👋
+# **Buenas, bienvenidos a mi perfil** :wave:
 
 ---
 
+### **Sobre mí**
 
-<!--
-**SilvioMorenoMelgarejo/SilvioMorenoMelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* :school: **Actualmente estudiando en** : [Centro Integral de Formación Profesional a Distancia "La
+Conservera"](https://sites.google.com/view/fplaconservera), en la Región de Murcia.
 
-Here are some ideas to get you started:
+* :computer: **Cursando**: [Formación Profesional de Grado Superior](https://www.llegarasalto.com) : técnico superior en [Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :books: **Asignaturas en las que estoy matriculado**:
+   * Lenguajes de marcas y sistemas de gestión de información
+   * Programación
+   * Bases de Datos
+   * Entornos de desarrollo
+   * Itinerario personal para la empleabilidad
+   * Digitalización Aplicada al Sistema Productivo
+   * Inglés Profesional
+   * Sistemas informáticos
