@@ -1,15 +1,18 @@
-# **Buenas, bienvenidos a mi perfil** :wave:
+# **Bienvenidos a mi perfil** :wave:
 
 ---
 
-### **Sobre mí**
+## **Sobre mí**
 
 * :school: **Actualmente estudiando en** : [Centro Integral de Formación Profesional a Distancia "La
 Conservera"](https://sites.google.com/view/fplaconservera), en la Región de Murcia.
 
+
 * :computer: **Cursando**: [Formación Profesional de Grado Superior](https://www.llegarasalto.com) : técnico superior en [Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html)
 
+
 * :books: **Asignaturas en las que estoy matriculado**:
+
    * Lenguajes de marcas y sistemas de gestión de información
    * Programación
    * Bases de Datos
@@ -18,3 +21,54 @@ Conservera"](https://sites.google.com/view/fplaconservera), en la Región de Mur
    * Digitalización Aplicada al Sistema Productivo
    * Inglés Profesional
    * Sistemas informáticos
+
+---
+
+## Stack tecnológico del curso:
+
+  * Frameworks:
+   
+    * .Net
+    * Angular
+    * React
+    * Django
+    * Ruby
+
+  * Lenguajes de programación:
+   
+    * ~JavaScript~
+    * Python
+    * C#
+
+  * Bases de Datos:
+   
+    * MongoDB
+    * Oracle
+    * SQL
+    * MySQL
+   
+## Stack tecnológico conocido:
+
+ * HTML
+ * Java
+ * Javascript
+ * XML
+ * VSCode
+ 
+
+## Preferencias tecnológicas
+
+  * Frontend
+  * Backend
+  * Full-Stack
+  * Bases de Datos
+  
+   
+ ---
+
+### Background offtopic
+
+  2016 - 2017 : Trabajé como pintor (durante una semana)
+  
+  2018 - actualidad  : Trabajando en una gasolinera :car:
+
