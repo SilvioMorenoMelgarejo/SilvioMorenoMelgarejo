@@ -22,7 +22,6 @@ Conservera"](https://sites.google.com/view/fplaconservera), en la Región de Mur
    * Inglés Profesional
    * Sistemas informáticos
 
----
 
 ## Stack tecnológico del curso:
 
@@ -46,14 +45,16 @@ Conservera"](https://sites.google.com/view/fplaconservera), en la Región de Mur
     * Oracle
     * SQL
     * MySQL
+
+---
    
 ## Stack tecnológico conocido:
 
- * HTML
- * Java
- * Javascript
- * XML
- * VSCode
+ * [x] HTML
+ * [x] Java
+ * [x] Javascript
+ * [x] XML
+ * [x] VSCode
  
 
 ## Preferencias tecnológicas
